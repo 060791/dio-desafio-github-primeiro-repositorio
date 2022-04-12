@@ -1,0 +1,26 @@
+1 - Acesar sua conta do Github (navegador)
+	Crie o seu repositório
+
+2 - Criar a pasta que será utilizada (máquina)
+	Na sua máquina entre na pasta que será utilizada.
+	Clique com o botão direiro/selecione "Git Bash Here"
+	
+3 - Criar um repositório no Github (navegador)
+	Na aba superio clique em "+"/New repository
+	De um nome ao reppsitório e uma descrição
+	Escolha se será publico ou privato
+	Se quiser selecione "Add a README file" ira criar um arquivo em Markdown.
+		Link da Sintaxe básica https://www.markdownguide.org/basic-syntax/
+
+4 - Clonar o Github (navegador)
+	No Github copie o link HTTPS no GitHub.
+	No GIT Bash aberto na ETAPA 2 digite "git clone (colar o link)
+		Tudo que foi estiver no repositório clonado será copiado para sua máquina
+
+5 - Acessar seu repositorio através do Git Bash (máquina)
+	cd (nome da pasta)
+
+6 - Vefiricando se o repositório criado no Github esta na nossa máquina
+	git status
+
+7 - Enviar as alterações feitas para o Github
