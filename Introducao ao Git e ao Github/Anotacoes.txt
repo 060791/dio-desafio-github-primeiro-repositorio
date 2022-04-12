@@ -23,4 +23,7 @@
 6 - Vefiricando se o repositório criado no Github esta na nossa máquina
 	git status
 
-7 - Enviar as alterações feitas para o Github
+7 - Enviar as alterações feitas para o GitHub
+	git add .
+	git commit -m "Inclusão das anotações do curso de Git/GitHub"
+	git push origin main
